@@ -1,2 +1,2 @@
 # Women_Security_application
-This application can help to send live location and custom message by using speech-to-text intent in critical situation. 
+Created this application using Java and Kotlin which can help any person in danger to notify their emergency contact, sends live location coordinates and text messages using a Cellular tower (in case of no signal). This uses text-to-speech intent for conversion of voice to text messages.
